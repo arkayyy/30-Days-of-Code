@@ -1,0 +1,1 @@
+g.addEdge("A","B",true,20);
